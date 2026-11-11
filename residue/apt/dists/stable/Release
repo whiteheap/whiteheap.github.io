@@ -1,0 +1,27 @@
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Wed, 11 Nov 2026 11:51:34 +0000
+Label: residue
+Origin: Whiteheap
+Suite: stable
+MD5Sum:
+ 86e4e3a112d21bfe4369eaf865e73c84              721 main/binary-amd64/Packages
+ 880ca4c35bc015d76bd7874852bfc68f              518 main/binary-amd64/Packages.gz
+ 170b0b2130659f7d91831f7e757a30f2              721 main/binary-arm64/Packages
+ 9aa8c321869ece05283fbc1700c889b7              518 main/binary-arm64/Packages.gz
+SHA1:
+ a72646d88dfce9a331cebf7802041812747c8861              721 main/binary-amd64/Packages
+ 2f8456d13f8a108af0e4cb57a79ebbed5a189b2a              518 main/binary-amd64/Packages.gz
+ 5824414f7d10ea873e1ef3a77a3473f4f6ad6f55              721 main/binary-arm64/Packages
+ 8202c59dd61de8b84a2a3ada903c444c116ee8e9              518 main/binary-arm64/Packages.gz
+SHA256:
+ b37fc0c6b728799fd13c7fb6d0301dbaf693b10d2dfdffca00a6a2cc97905dab              721 main/binary-amd64/Packages
+ 5d6901ba6539f029c4fdbe21bdddb7a5db2275b982c701d39c6a8420572844e2              518 main/binary-amd64/Packages.gz
+ c41837dd4a5f2740cac8d59dac9a4c3e02c90ce795a486b5d0f5af577d71f1ca              721 main/binary-arm64/Packages
+ a976e320136ebb01f34150af6e656a6a45988009afe68fd5c899b2cfbc0895a1              518 main/binary-arm64/Packages.gz
+SHA512:
+ 9476d55b8403952d6bd049628f787fed95121ef9ee8bd9fbe94c629c5b453c46bd57a733b879330af21034941ed1eee060ab5274d512b6c38aba5326edced5a4              721 main/binary-amd64/Packages
+ dde7334c272f0f53575ea39ee63f32c00f451140a1795c87b31afb1800f6e579c3a8718d0c3bef93edb18fb2fc94b6fe93a150a783691428430e504d857c97ad              518 main/binary-amd64/Packages.gz
+ 3226cd5f61a7f8ca2581956d638ee8b317d736b62b62bc4309f634d4055a01abdae63fe1d41680f38e51c486e6825952fa74716a571e51194121c797ec26d054              721 main/binary-arm64/Packages
+ b365672d1da79bc6aa6c47cd18dc059e9b67cb6bf71c04781f81c20e6f25cd86b334b5fb2262a75d5e695801df56f655719697a7438a244077a72a96d0c68c74              518 main/binary-arm64/Packages.gz

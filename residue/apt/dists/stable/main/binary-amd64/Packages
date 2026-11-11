@@ -1,0 +1,18 @@
+Package: residue
+Architecture: amd64
+Version: 0.0.14
+Priority: optional
+Section: devel
+Maintainer: Trevor I. Lasn <trevorlasn@gmail.com>
+Installed-Size: 2355
+Depends: git (>= 1:2.36)
+Filename: pool/main/r/residue/residue_0.0.14_amd64.deb
+Size: 1129104
+MD5sum: e6d0ad662ebbd0f2211c57a7c5747ad0
+SHA1: a1736a4ec61ed6842afcada7fedc61d80623ad7b
+SHA256: 29fa288e4c8d65636cd4dbc73d9c9c6ea363fa28eaaf2c1426c0fd331759f0b1
+SHA512: 3c406f0c1b8578dbe7b1d308a119dfebe8e0e438f17f110bbeee76f85e3358125f72cf2303837208750e8cefd6da149d941154599fb9bf3a604dd5df5e233b71
+Homepage: https://github.com/whiteheap/residue-cli
+Description: Find the Git worktrees coding agents leave behind, and remove one only when
+ nothing in it would be lost.
+
